@@ -1,0 +1,22 @@
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    text-align: center;
+    margin: 10px;
+}
+
+img {
+    float: left;
+}
+
+.BookItemDiv {
+    border-top: 1px solid grey;
+}
+
+h2 {
+    text-align: center;
+}

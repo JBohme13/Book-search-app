@@ -1,0 +1,12 @@
+h1 {
+    font-size: 40px;
+}
+
+.HeaderDiv {
+    height: 80px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+}
